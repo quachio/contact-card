@@ -1,0 +1,23 @@
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+    vertical-align: top;
+}
+.card ul {
+    display: inline-block;
+}
+.card li {
+    border: 2px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    background-color: pink;
+    height: 200px;
+    width: 300px;
+}
+
+h3 {
+    line-height: 100px;
+}
